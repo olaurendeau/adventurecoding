@@ -2,6 +2,7 @@ import Footer from "@/app/_components/footer";
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 import "./globals.css";
 
@@ -58,6 +59,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <div className="min-h-screen">{children}</div>
         <Footer />
+        <SpeedInsights/>
       </body>
     </html>
   );
