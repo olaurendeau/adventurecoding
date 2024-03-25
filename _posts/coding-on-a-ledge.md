@@ -7,10 +7,8 @@ author:
   name: Olivier Laurendeau
   picture: "/assets/blog/authors/olaurendeau.jpg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/coding-on-a-ledge/adventure_coding.jpg"
 ---
-
-# Coding from a Mountain Ledge: Blending Technology and Adventure
 
 In the fast-paced world of technology, where coding has become synonymous with screens and office desks, a new breed of adventurers is redefining the boundaries of where programming can take place. Picture this: perched on a mountain ledge, high above the ground, a lone coder delves into lines of code, surrounded by breathtaking vistas and the crisp mountain air. Welcome to the world of coding from a mountain ledge.
 
@@ -57,5 +55,7 @@ Coding from a mountain ledge demands a unique set of skills that combine technic
 4. **Risk Management**: Assess and mitigate risks associated with coding in a mountainous environment. This includes understanding the dangers of inclement weather, wildlife encounters, and physical hazards inherent to the terrain.
 
 5. **Adaptability**: Be prepared to adapt to changing conditions and unexpected challenges. Flexibility and resourcefulness are key traits when coding in remote locations where technology and infrastructure may be limited.
+
+## Con
 
 Coding from a mountain ledge represents the convergence of technology and adventure, pushing the boundaries of where coding can take place. With the right gear, careful planning, and a blend of technical and outdoor skills, adventurers can embark on a coding journey unlike any other, finding inspiration and innovation amidst the awe-inspiring beauty of the mountains.
