@@ -2,7 +2,7 @@
 title: "Coding from a Mountain Ledge"
 excerpt: "In the world of technology, a new breed of adventurers is redefining programming. Perched on a mountain ledge, a lone coder delves into lines of code, surrounded by breathtaking vistas. Essential gear, mountain selection, and skills merge to create this unique coding experience."
 coverImage: "/assets/blog/coding-on-a-ledge/adventure_coding.jpg"
-date: "2024-03-25T10:35:07.322Z"
+date: "2024-02-16T10:35:07.322Z"
 author:
   name: Olivier Laurendeau
   picture: "/assets/blog/authors/olaurendeau.jpg"

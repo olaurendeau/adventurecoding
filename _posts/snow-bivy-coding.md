@@ -2,7 +2,7 @@
 title: "Coding from a Bivy in the Snow"
 excerpt: "Experience the thrill of coding from a dual paraglider, where technology meets adventure in the skies. Equipped with lightweight gear and a reliable internet connection, embark on a journey like no other. Navigate through valleys with stable wind conditions, ensuring a safe and seamless coding experience. Master the art of coding while soaring to new heights, merging the realms of technology and adrenaline-fueled exploration."
 coverImage: "/assets/blog/snow-bivy-coding/snow-bivy-coding.jpg"
-date: "2024-02-11T10:35:07.322Z"
+date: "2024-01-11T10:35:07.322Z"
 author:
   name: Olivier Laurendeau
   picture: "/assets/blog/authors/olaurendeau.jpg"
