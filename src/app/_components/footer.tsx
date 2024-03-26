@@ -7,7 +7,7 @@ export function Footer() {
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <a
-            href={`https://github.com/olaurendeau/blog-starter-kit`}
+            href={`https://github.com/olaurendeau/adventurecoding`}
             className="mx-3 font-bold hover:underline"
           >
             View on GitHub
