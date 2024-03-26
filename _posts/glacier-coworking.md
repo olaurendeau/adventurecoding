@@ -3,6 +3,7 @@ title: "Coworking in the Ice"
 excerpt: "Coworking in a glacier combines the thrill of adventure with the demands of remote work. Amidst pristine ice walls, participants navigate challenges and embrace innovation. From stable glaciers to essential gear, preparation is key for this unique workspace. For those daring enough, the rewards are as vast as the icy expanse itself."
 coverImage: "/assets/blog/glacier-coworking/glacier-coworking.jpg"
 date: "2024-03-26T10:35:07.322Z"
+lastModified: "2024-03-26T10:35:07.322Z"
 author:
   name: Olivier Laurendeau
   picture: "/assets/blog/authors/olaurendeau.jpg"

@@ -3,6 +3,7 @@ title: "Coding from a Dual Paraglider"
 excerpt: "Experience the thrill of coding from a dual paraglider, where technology meets adventure in the skies. Equipped with lightweight gear and a reliable internet connection, embark on a journey like no other. Navigate through valleys with stable wind conditions, ensuring a safe and seamless coding experience. Master the art of coding while soaring to new heights, merging the realms of technology and adrenaline-fueled exploration."
 coverImage: "/assets/blog/paragliding-coding/paragliding-coding.jpg"
 date: "2023-12-01T10:35:07.322Z"
+lastModified: "2023-12-01T10:35:07.322Z"
 author:
   name: Olivier Laurendeau
   picture: "/assets/blog/authors/olaurendeau.jpg"
