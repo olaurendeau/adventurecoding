@@ -12,6 +12,12 @@ export function Footer() {
           >
             View on GitHub
           </a>
+          <a
+            href={`https://apps.apple.com/hr/app/racine-partage/id1617526882`}
+            className="mx-3 font-bold hover:underline"
+          >
+            Racine app
+          </a>
         </div>
       </Container>
     </footer>
